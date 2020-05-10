@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
     { author: "avrill.v", quotes: "Whatever happens, keep breathing" },
-    { author: "antjedtta_", quotes: "Pam pam pararam ceklek jedar\nPararam ram parararam ram" },
+    { author: "pdpb", quotes: "hohoho saya gabut" },
     { author: "standinshd", quotes: "Hey! I wuv chuuuu! UwU" },
-    { author: "standinshd", quotes: "Gua Gabut." },
-    { author: "standinshd", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "standinshd", quotes: "Gua Gabut." },
+    { author: "pdpb", quotes: "Gua Gabut." },
+    { author: "-Dari Orang gabut", quotes: "maaf ya ini kegabutan gw yang kedua, semoga lu suka hehe." },
+    { author: "pdpb", quotes: "Gua Gabut." },
     { author: "standinshd", quotes: "I'm sorry for loving you. hehe." },
 ];
